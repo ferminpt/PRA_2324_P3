@@ -6,7 +6,7 @@
 #include <string> 
 #include "Dict.h"
 #include "TableEntry.h"
-#include "ListLinked.h"
+#include "..\PRA\PRA_2324_P1\Ejercicio1"
 using namespace std;
 
 template <typename V>
